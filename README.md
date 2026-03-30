@@ -2,7 +2,7 @@
 
 > *100% first-pitch take rate. A 420 ft homer on pitch 2 of an AB. And some early questions about how pitchers will attack him.*
 
-**[→ View the live visualization](https://scherrology-sys.github.io/okamoto-debut/)**
+**[→ View the live visualization](https://scherrology-sys.github.io/okamoto-plate-approach/)**
 
 ---
 
